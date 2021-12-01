@@ -25,7 +25,7 @@ namespace SignUpValidation.Models
         public string Country { get; set; }
 
         [Required(ErrorMessage = "City is Mandatory")]
-        public int City { get; set; }
+        public string City { get; set; }
 
         [Required(ErrorMessage = "Gender is Mandatory")]
         public string Gender { get; set; }

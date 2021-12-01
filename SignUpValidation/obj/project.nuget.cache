@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ONUny/LzTuNvfmnmzBu9fErRsKnJqu0uJVft7A8UoXW4VBBc+2oYIfTVq1ZZLcRYmOQfQlr0iZ3TdRZal9qgJA==",
+  "dgSpecHash": "108EoB1iGFqo9Sq1+kZ146KAJB+bXL6985r9igYaJQiqNUD0Ww5XH6UHepzAciiFpu+rd6mxO4k2BxotR1QGgw==",
   "success": true,
-  "projectFilePath": "D:\\MyProjects\\NetCorePractice\\SignUpValidation\\SignUpValidation\\SignUpValidation.csproj",
+  "projectFilePath": "D:\\MyProjects\\NetCorePractice\\NetCore\\SignUpValidation\\SignUpValidation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viji\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Viji\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
